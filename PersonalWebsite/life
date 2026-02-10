@@ -1,0 +1,30 @@
+<main id="main-content">
+  <div class="container">
+    <div class="section-intro">
+      <h2>My Photo Gallery</h2>
+      <p class="tags">Gym • Basketball • Friends • Life</p>
+    </div>
+
+    <div class="gallery">
+      <a href="gym.html" class="photo">
+        <img src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800" alt="Gym">
+        <p>GYM</p>
+      </a>
+
+      <a href="basketball.html" class="photo">
+        <img src="https://images.unsplash.com/photo-1519821172144-4f87d85de2a1?w=800" alt="Basketball">
+        <p>BASKETBALL</p>
+      </a>
+
+      <a href="friends.html" class="photo">
+        <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800" alt="Friends">
+        <p>FRIENDS</p>
+      </a>
+
+      <a href="life.html" class="photo">
+        <img src="https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800" alt="Life">
+        <p>LIFE</p>
+      </a>
+    </div>
+  </div>
+</main>

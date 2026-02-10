@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Basketball Gallery</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header id="top">
+  <div class="profile-section">
+    <img src="profile.jpg" class="profile-image">
+    <div class="profile-info">
+      <h1>Jay Ralph Carillo</h1>
+      <p>Information Technology Student</p>
+    </div>
+  </div>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="gallery.html">← Back to Gallery</a></li>
+  </ul>
+</nav>
+
+<main class="content">
+<section>
+<h2>🏀 Basketball</h2>
+
+<div class="gallery-grid">
+<img src="https://images.unsplash.com/photo-1519821172144-4f87d85de2a1?w=800">
+<img src="https://images.unsplash.com/photo-1546519638-68e109498ffc?w=800">
+<img src="https://images.unsplash.com/photo-1601758125946-6ec2ef64daf8?w=800">
+</div>
+
+</section>
+</main>
+
+<footer>
+<p>&copy; 2026 Jay Ralph Carillo</p>
+</footer>
+</body>
+</html>

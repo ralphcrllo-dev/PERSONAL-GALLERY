@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gym Gallery</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>GYM Gallery</h1>
+</header>
+
+<main>
+  <section>
+    <h2>My Gym Life</h2>
+    <img src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800" alt="Gym workout">
+    <img src="https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800" alt="Training">
+  </section>
+</main>
+
+<a href="photogallery.html">← Back to Gallery</a>
+
+</body>
+</html>

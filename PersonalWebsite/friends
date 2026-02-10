@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Friends Gallery</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header id="top">
+  <div class="profile-section">
+    <img src="profile.jpg" class="profile-image">
+    <div class="profile-info">
+      <h1>Jay Ralph Carillo</h1>
+      <p>Information Technology Student</p>
+    </div>
+  </div>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="gallery.html">← Back to Gallery</a></li>
+  </ul>
+</nav>
+
+<main class="content">
+<section>
+<h2>👥 Friends</h2>
+
+<div class="gallery-grid">
+<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800">
+<img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=800">
+</div>
+
+</section>
+</main>
+
+<footer>
+<p>&copy; 2026 Jay Ralph Carillo</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Family Gallery</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header id="top">
+  <div class="profile-section">
+    <img src="profile.jpg" class="profile-image">
+    <div class="profile-info">
+      <h1>Jay Ralph Carillo</h1>
+      <p>Information Technology Student</p>
+    </div>
+  </div>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="gallery.html">← Back to Gallery</a></li>
+  </ul>
+</nav>
+
+<main class="content">
+<section>
+<h2>🏠 Family</h2>
+
+<div class="gallery-grid">
+<img src="https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800">
+<img src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800">
+</div>
+
+</section>
+</main>
+
+<footer>
+<p>&copy; 2026 Jay Ralph Carillo</p>
+</footer>
+</body>
+</html>
